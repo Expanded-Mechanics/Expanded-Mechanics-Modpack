@@ -16,6 +16,8 @@ schematics/
 versions/
 crash-reports/
 
+config/f2d/settings.conf
+
 # Files to ignore
 banned-ips.json
 banned-players.json
@@ -42,5 +44,4 @@ whitelist.json
 !LICENSE
 
 # and these folders
-!kubejs/*
 !config/*
