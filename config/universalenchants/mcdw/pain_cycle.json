@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "mcdw:critical_hit",
+    "mcdw:enigma_resonator",
+    "mcdw:smiting",
+    "mcdw:swirling",
+    "mcdw:committed",
+    "magna:gigantism_curse",
+    "mcdw:ambush",
+    "mcdw:shockwave",
+    "mcdw:dynamo",
+    "mcdw:shared_pain",
+    "mcdw:void_shot",
+    "mcdw:gravity",
+    "mcdw:void_strike",
+    "mcdw:chains",
+    "mcdw:exploding"
+  ]
+}

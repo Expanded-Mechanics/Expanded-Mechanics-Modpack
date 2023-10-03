@@ -1,0 +1,29 @@
+#Liquid blocks checked/removed per tick for sponge blocks, useful to put less load on the level in a single tick, especially when a large radius is set.
+#Set to -1 to run all updates instantaneously like with the sponges on a stick.
+#Range: -1 ~ 64
+updates_per_tick = 12
+#The cooldown in ticks after using a sponge on a stick item, just like ender pearls.
+#Set to 0 to disable the cooldown.
+#Range: 0 ~ 72000
+stick_cooldown_ticks = 20
+
+[aquatic_sponge]
+	#The radius in blocks centered on where the sponge on a stick was clicked where all liquids will be removed.
+	#Range: 1 ~ 8
+	stick_radius = 2
+	#The radius in blocks centered on the sponge where all liquids will be removed.
+	#Range: 1 ~ 24
+	block_radius = 4
+	#Should the sponge be destroyed after removing a hot liquid such as lava.
+	destroy_touching_hot = true
+
+[magmatic_sponge]
+	#The radius in blocks centered on where the sponge on a stick was clicked where all liquids will be removed.
+	#Range: 1 ~ 8
+	stick_radius = 3
+	#The radius in blocks centered on the sponge where all liquids will be removed.
+	#Range: 1 ~ 24
+	block_radius = 5
+	#Should the sponge be destroyed after removing a hot liquid such as lava.
+	destroy_touching_hot = false
+

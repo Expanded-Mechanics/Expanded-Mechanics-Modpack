@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite",
+    "minecraft:sharpness",
+    "magna:gigantism_curse"
+  ]
+}

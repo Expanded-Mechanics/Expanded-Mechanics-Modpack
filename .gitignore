@@ -1,0 +1,46 @@
+# Folders to Ignore
+.fabric/
+armourers_workshop/
+debug/
+defaultconfigs/
+Expanded Mechanics/
+global_packs/
+libraries/
+local/
+localconfigs/
+logs/
+mods/
+patchouli_books/
+resourcepacks/
+schematics/
+versions/
+crash-reports/
+
+# Files to ignore
+banned-ips.json
+banned-players.json
+eula.txt
+fabric-server-launch.jar
+fabric-server-launcher.properties
+fabricloader.log
+LaunchServer.bat
+LaunchServer.sh
+minecraft_server.1.19.2.jar
+ops.json
+rhino.local.properties
+server-icon.png
+server.json
+server.properties
+user_jvm_args.txt
+usercache.json
+usernamecache.json
+whitelist.json
+
+# But not these files...
+!.gitignore
+!README.md
+!LICENSE
+
+# and these folders
+!kubejs/*
+!config/*

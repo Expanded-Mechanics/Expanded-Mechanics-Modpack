@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "mcdw:levitation_shot",
+    "mcdw:critical_hit",
+    "mcdw:enigma_resonator",
+    "mcdw:smiting",
+    "mcdw:radiance",
+    "mcdw:weakening",
+    "mcdw:committed",
+    "mcdw:thundering",
+    "mcdw:poison_cloud",
+    "magna:gigantism_curse",
+    "mcdw:ambush",
+    "mcdw:shockwave",
+    "mcdw:burst_bowstring",
+    "mcdw:dynamo",
+    "mcdw:void_shot",
+    "mcdw:gravity",
+    "mcdw:void_strike",
+    "mcdw:cobweb_shot",
+    "mcdw:chains",
+    "mcdw:pain_cycle",
+    "mcdw:exploding",
+    "mcdw:echo"
+  ]
+}

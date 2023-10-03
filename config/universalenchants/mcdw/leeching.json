@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "mcdw:radiance",
+    "mcdw:anima_conduit",
+    "magna:gigantism_curse"
+  ]
+}

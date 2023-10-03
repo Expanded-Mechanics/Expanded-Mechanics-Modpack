@@ -1,0 +1,165 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  custom_menu_title = Expanded Mechanics Menu Principal
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/bg.png
+  wideformat = true
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 366
+  action = autoscale
+  basewidth = 1366
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=376310%
+  orientation = bottom-left
+  x = 213
+  action = movebutton
+  y = -221
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 180
+  action = deep_customization_element:title_screen_branding
+  actionid = b51c9d19-0a33-4aca-a441-c2b426de18731688263793448
+  y = 362
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 444
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 7431c560-bf9a-4459-9f1b-069d498252cd1688263793452
+  y = 193
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 204
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 3ef75ce5-80ec-4413-aa56-22944ee8efe71688263793452
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-left
+  splash_color = #ffff00
+  hidden = true
+  x = 480
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 10bafc82-25ea-42c5-a835-f1671a1eb85f1688263793452
+  y = 83
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  copy_client_player = true
+  slim = false
+  auto_skin = false
+  scale = 45
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/31f477eb1a7beee631c2ca64d06f8f68fa93a3386d04452ab27f43acdf1b60cb
+  showname = true
+  crouching = false
+  follow_mouse = true
+  x = 156
+  width = 27
+  parrot_left_shoulder = false
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 2f111dd5-5188-4abb-bade-e707121f674f1688263865809
+  y = 148
+  playername = ADMIN
+  bodyrotationx = 0.0
+  parrot = false
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 81
+}
+
+customization {
+  orientation = top-centered
+  delayappearanceseconds = 1.0
+  path = resources/logo.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -137
+  width = 274
+  action = addtexture
+  actionid = 91094f55-1f35-4434-9c13-ad9002de49021689038873375
+  y = 9
+  delayappearance = true
+  delayappearanceeverytime = false
+  height = 163
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  delayappearanceseconds = 1.0
+  rotation = 20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  fadein = true
+  vanilla-like = true
+  fadeinspeed = 1.0
+  x = 421
+  actionid = 91076546-e5b8-4815-a013-85fb79e302771688264420168
+  action = addsplash
+  y = 105
+  delayappearance = true
+  text = v1.4.7
+  delayappearanceeverytime = false
+}
+
+customization {
+  orientation = mid-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;26.54.221.46%btnaction_splitter_fm%
+  x = -236
+  width = 107
+  action = addbutton
+  actionid = afdf157c-baed-4094-8569-d409dd11b4701689039506545
+  y = -36
+  label = Acessar o Servidor
+  height = 20
+}
+

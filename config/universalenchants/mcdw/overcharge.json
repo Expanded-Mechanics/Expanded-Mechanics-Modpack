@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "mcdw:accelerate",
+    "minecraft:punch",
+    "magna:gigantism_curse",
+    "minecraft:power"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "allowed": {
+    "blocks": [],
+    "properties": [],
+    "tags": []
+  },
+  "forbidden": {
+    "blocks": [],
+    "properties": [],
+    "tags": []
+  },
+  "messages": {
+    "select": "Property «%s» was selected (%s).",
+    "change": "Property «%s» was modified (%s).",
+    "nomodify": "This block is not modifiable."
+  },
+  "whitelist": false
+}

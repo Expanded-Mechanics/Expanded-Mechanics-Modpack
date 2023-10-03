@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor"
+  ],
+  "incompatible": [
+    "magna:gigantism_curse",
+    "mcda:reckless"
+  ]
+}

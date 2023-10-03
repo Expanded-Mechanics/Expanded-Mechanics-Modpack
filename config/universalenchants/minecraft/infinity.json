@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "mcdw:chain_reaction",
+    "mcdw:replenish",
+    "mcdw:dipping_poison",
+    "magna:gigantism_curse"
+  ]
+}

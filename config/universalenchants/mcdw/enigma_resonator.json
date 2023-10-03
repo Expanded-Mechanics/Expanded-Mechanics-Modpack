@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "mcdw:critical_hit",
+    "mcdw:smiting",
+    "mcdw:weakening",
+    "mcdw:swirling",
+    "mcdw:committed",
+    "mcdw:thundering",
+    "mcdw:poison_cloud",
+    "magna:gigantism_curse",
+    "mcdw:ambush",
+    "mcdw:shockwave",
+    "minecraft:bane_of_arthropods",
+    "mcdw:dynamo",
+    "minecraft:smite",
+    "mcdw:shared_pain",
+    "mcdw:void_shot",
+    "mcdw:gravity",
+    "mcdw:void_strike",
+    "mcdw:chains",
+    "minecraft:sharpness",
+    "mcdw:pain_cycle",
+    "mcdw:exploding",
+    "mcdw:echo"
+  ]
+}

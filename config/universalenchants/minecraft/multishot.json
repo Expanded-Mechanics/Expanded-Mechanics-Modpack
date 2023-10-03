@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "mcdw:accelerate",
+    "mcdw:bonus_shot",
+    "supplementaries:stasis",
+    "magna:gigantism_curse"
+  ]
+}

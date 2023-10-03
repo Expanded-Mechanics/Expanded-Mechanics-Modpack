@@ -1,0 +1,3 @@
+# The list of tags to block BCLib from adding to items or blocks or anything.
+blocked_tags:
+- c:iron_ingots

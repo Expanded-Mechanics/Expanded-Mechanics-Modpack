@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor"
+  ],
+  "incompatible": [
+    "mcda:burning",
+    "mcda:fire_trail",
+    "magna:gigantism_curse"
+  ]
+}

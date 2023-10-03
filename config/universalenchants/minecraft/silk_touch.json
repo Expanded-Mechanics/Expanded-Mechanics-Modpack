@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "vanillatweaks:blazing",
+    "minecraft:luck_of_the_sea",
+    "minecraft:looting",
+    "minecraft:fortune",
+    "magna:gigantism_curse"
+  ]
+}
